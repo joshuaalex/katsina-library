@@ -1,0 +1,37 @@
+[22-Dec-2021 03:11:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[22-Dec-2021 03:11:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[22-Dec-2021 03:17:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[22-Dec-2021 03:18:44 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[22-Dec-2021 11:25:37 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[22-Dec-2021 11:30:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[03-Jan-2022 15:20:57 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[03-Jan-2022 19:42:28 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[15-Jan-2022 19:45:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[18-Jan-2022 12:33:29 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[18-Jan-2022 12:59:21 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[11-May-2022 17:16:08 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[12-May-2022 12:44:09 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[29-May-2022 08:08:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[29-May-2022 08:10:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[05-Jun-2022 11:58:56 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[19-Aug-2022 18:57:39 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[04-Jan-2023 08:07:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[04-Jan-2023 08:11:17 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[16-Jan-2023 07:15:53 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[10-Mar-2023 16:25:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[08-Apr-2023 21:43:27 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[09-Apr-2023 10:09:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[11-Apr-2023 14:01:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[11-Apr-2023 14:09:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[11-Apr-2023 14:14:47 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[12-Apr-2023 18:42:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[12-Apr-2023 20:42:52 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[13-May-2023 10:50:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[25-May-2023 10:22:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'abmlibra_katsinalibrary'@'localhost' to database 'abmlibra_katsinalibrarydb' in /home2/abmlibra/public_html/admin/signup/config.php on line 10
+[25-May-2023 10:22:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'abmlibra_katsinalibrary'@'localhost' to database 'abmlibra_katsinalibrarydb' in /home2/abmlibra/public_html/admin/signup/config.php on line 10
+[25-May-2023 10:42:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/abmlibra/public_html/admin/signup/config.php on line 10
+[09-Jun-2023 00:34:19 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home2/abmlibra/public_html/admin/signup/index.php on line 59
+[02-Aug-2024 18:51:14 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/abmlibra/public_html/admin/signup/index.php on line 59
+[05-Aug-2024 12:20:51 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/abmlibra/public_html/admin/signup/index.php on line 59
+[05-Aug-2024 12:38:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/abmlibra/public_html/admin/signup/index.php on line 59
+[05-Aug-2024 12:39:32 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/abmlibra/public_html/admin/signup/index.php on line 59
